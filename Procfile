@@ -1,1 +1,1 @@
-web: gununicorn tell_me.wsgi
+web: gunicorn tell_me.wsgi
