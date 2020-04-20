@@ -1,1 +1,1 @@
-web: gunicorn tell_me.wsgi
+web: gunicorn tell_me.wsgi --log-file -
